@@ -1,7 +1,7 @@
 This information should be in the
 [Changelog](http://www.iro.umontreal.ca/~gambit/repo/gambit/?shortlog),
 in [Bugzilla](http://www.iro.umontreal.ca/~gambit/bugzilla), and under
-[Distributions](Distributions "wikilink"). But I'm not sure it is
+[Distributions](Distributions.md). But I'm not sure it is
 (especially for the beta versions). So this page seemed like a useful
 temporary measure.
 

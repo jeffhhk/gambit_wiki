@@ -1,6 +1,6 @@
 \_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ The Gambit Scheme system is a
 complete, portable, efficient and reliable implementation of the [
-Scheme programming language](Scheme "wikilink").
+Scheme programming language](Scheme.md).
 
 This web site is intended for users of the Gambit Scheme system. It is a
 place where various resources are collected and where users can exchange
@@ -44,7 +44,7 @@ touch/iPad](http://itunes.apple.com/us/app/gambit-repl/id434534076?mt=8&ls=1),
 MinGW32)](http://www.iro.umontreal.ca/~gambit/download/gambit/v4.9/prebuilt/gambit-v4_9_3-windows-mingw32.exe)
 [Windows installer (for
 MinGW64)](http://www.iro.umontreal.ca/~gambit/download/gambit/v4.9/prebuilt/gambit-v4_9_3-windows-mingw64.exe)
-(for other releases see the [distributions](distributions "wikilink")).
+(for other releases see the [distributions](distributions.md)).
 Libraries and module systems are installed separately.
 
 **[Click here to join the Gambit
@@ -94,7 +94,7 @@ compiler generates portable C code. The main features of Gambit-C are:
     fast as equivalent C programs. Programs containing no declarations
     are also optimized without compromising the Scheme semantics by
     speculatively inlining predefined procedures (see the
-    [benchmarks](benchmarks "wikilink") page for a comparison with other
+    [benchmarks](benchmarks.md) page for a comparison with other
     Scheme implementations and other languages). Thanks to an efficient
     implementation of continuations, the thread system is very efficient
     and can support millions of concurrent threads.
@@ -102,7 +102,7 @@ compiler generates portable C code. The main features of Gambit-C are:
     tracking is done with the [issue tracker on
     github](https://github.com/gambit/gambit/issues). Gambit-C has been
     used to develop large-scale [ real-world software and
-    services](Real-world_software_and_services "wikilink") in academic
+    services](Real-world_software_and_services.md) in academic
     and commercial settings.
 
 An overview of the Gambit system was presented by Marc Feeley at the
@@ -123,7 +123,7 @@ at the European Lisp Symposium 2020 are
 ## Getting Gambit
 
 Gambit is available as prebuilt and source code
-[distributions](distributions "wikilink"). There are prebuilt
+[distributions](distributions.md). There are prebuilt
 distributions for Mac OS X, iPhone/iPod touch/iPad (on Apple App Store),
 Microsoft Windows, and other operating systems. The source code
 distributions must be compiled with a C or C++ compiler. The latest
@@ -132,11 +132,11 @@ github](https://github.com/gambit/gambit).
 
 ## Documentation
 
-[Documentation](Documentation "wikilink") is available.
+[Documentation](Documentation.md) is available.
 
 ## Contributing
 
-Learn [how to contribute](how_to_contribute "wikilink") to Gambit's
+Learn [how to contribute](how_to_contribute.md) to Gambit's
 development.
 
 ### Reporting bugs

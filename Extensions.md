@@ -7,16 +7,16 @@ documentation.
 
   - To allow user-defined types and structures, with many enhancements
     to enable inheritance, read-only fields and others options, see the
-    [define-type](define-type "wikilink") page.
+    [define-type](define-type.md) page.
 
 <!-- end list -->
 
-  - Modular [hash-tables](hash-tables "wikilink") are provided, where
+  - Modular [hash-tables](hash-tables.md) are provided, where
     you can select your hash functions, your equality predicates, use
     weak pointers, etc.
 
 <!-- end list -->
 
-  - What about some [extra parameters](extra_parameters "wikilink") such
+  - What about some [extra parameters](extra_parameters.md) such
     as keys, optional parameters, references to whole parts of code,
     etc?

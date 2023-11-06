@@ -1,6 +1,6 @@
 *This content is currently just some notes by me without any connection
 to the Gambit-C project - they may not be completely accurate.
---[PhilDawes](User:PhilDawes "wikilink") 17:04, 9 April 2007 (EDT)*
+--[PhilDawes](User:PhilDawes.md) 17:04, 9 April 2007 (EDT)*
 
 ## Creating Gambit Scheme objects from C
 
@@ -149,4 +149,4 @@ but it won't be moved.
 
 For more information, check out the extensive comments in mem.c.
 
-\--[PhilDawes](User:PhilDawes "wikilink") 16:54, 9 April 2007 (EDT)
+\--[PhilDawes](User:PhilDawes.md) 16:54, 9 April 2007 (EDT)

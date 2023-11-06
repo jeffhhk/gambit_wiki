@@ -2,7 +2,7 @@ This will be a page describing the efforts to build a version of Gambit
 optimized for NDS (Nintendo DS) development.
 
 Right now it will just point to the
-[Distributions](Distributions "wikilink") page, and contain a few notes.
+[Distributions](Distributions.md) page, and contain a few notes.
 
 ## Decreasing the size of the Gambit executable
 

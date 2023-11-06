@@ -40,4 +40,4 @@ Here are the most useful "make" targets:
 </tbody>
 </table>
 
-[Category: Installing](Category:_Installing "wikilink")
+[Category: Installing](Category:_Installing.md)

@@ -1,5 +1,5 @@
 **Black Hole** (“BH”) is a module system abstraction for
-[Gambit](Documentation "wikilink") providing recurring module file
+[Gambit](Documentation.md) providing recurring module file
 dependency compilation and loading, including export of macros, for
 regular R5RS Scheme.
 
@@ -20,21 +20,21 @@ There are also some libraries for Black Hole at
     git clone git://github.com/pereckerdal/blackhole-libs.git
 
 or non-automatically, probably very old copy
-[here](media:Black_Hole.zip "wikilink").
+[here](media:Black_Hole.zip.md).
 
 Make sure you put the blackhole-libs into a directory called "std" in
 \~\~/lib/modules
 
 ## Documentation
 
-Core documentation (2009): [PDF](media:Black_Hole_Core.pdf "wikilink"),
-[OpenOffice](media:Black_Hole_Core.odf "wikilink") and [Microsoft
-Word](media:Black_Hole_Core.doc "wikilink")
+Core documentation (2009): [PDF](media:Black_Hole_Core.pdf.md),
+[OpenOffice](media:Black_Hole_Core.odf.md) and [Microsoft
+Word](media:Black_Hole_Core.doc.md)
 
 Bundled libraries documentation (2009):
-[PDF](media:Black_Hole_Bundled_libraries.pdf "wikilink"),
-[OpenOffice](media:Black_Hole_Bundled_libraries.odf "wikilink") and
-[Microsoft Word](media:Black_Hole_Bundled_libraries.doc "wikilink")
+[PDF](media:Black_Hole_Bundled_libraries.pdf.md),
+[OpenOffice](media:Black_Hole_Bundled_libraries.odf.md) and
+[Microsoft Word](media:Black_Hole_Bundled_libraries.doc.md)
 
 (The tutorial for the alpha release is no longer available. The old site
 <http://mwaza.dyndns.org/apps/files/bh-tutorial.html> is now offline.)

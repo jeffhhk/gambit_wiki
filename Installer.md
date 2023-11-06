@@ -67,5 +67,5 @@ gives
   - ???
   - Profit\!
 
-[Category: Installing](Category:_Installing "wikilink") [Category:
-Internals](Category:_Internals "wikilink")
+[Category: Installing](Category:_Installing.md) [Category:
+Internals](Category:_Internals.md)

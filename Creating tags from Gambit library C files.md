@@ -1,6 +1,6 @@
 ## Overview
 
-Work in progress. See also [User:dpeschel](User:dpeschel "wikilink").
+Work in progress. See also [User:dpeschel](User:dpeschel.md).
 
 The hand-written C files in the Gambit `lib/` directory contain many
 small functions, so it would be useful to have a list. The GNU `etags`
@@ -89,12 +89,12 @@ work.
 ### Finding the maximum depth of parentheses used
 
 The maximum depth after any \_\_\_P invocation in any of the library
-files is four. See [this page](Lalr_example "wikilink") for the script
+files is four. See [this page](Lalr_example.md) for the script
 used to find that.
 
 ### Generating a regexp
 
 ### Using the regexp
 
-[Category: development](Category:_development "wikilink") [Category:
-internals](Category:_internals "wikilink")
+[Category: development](Category:_development.md) [Category:
+internals](Category:_internals.md)

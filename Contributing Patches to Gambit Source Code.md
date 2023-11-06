@@ -1,5 +1,5 @@
 \_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ The Gambit [ source code
-repository](Source_code_repository "wikilink") is managed with the
+repository](Source_code_repository.md) is managed with the
 [git](http://git.or.cz/) distributed version control system.
 
 Each developer uses a local copy of the central repository. The copies
@@ -290,4 +290,4 @@ Here's the
 > will forever be broken. I haven't looked into ways (automatic tool, or
 > better version changing habits) to avoid this problem in the future.
 
-[Category: Development](Category:_Development "wikilink")
+[Category: Development](Category:_Development.md)

@@ -1,7 +1,7 @@
 This is a Gambit implementation of the
 [fasta](http://shootout.alioth.debian.org/gp4sandbox/benchmark.php?test=fasta&lang=all)
 benchmark of the [Computer Language Benchmarks
-Game](Programming_language_shootout "wikilink").
+Game](Programming_language_shootout.md).
 
 ## The program
 
@@ -147,9 +147,9 @@ Game](Programming_language_shootout "wikilink").
 
     gsi fasta 25000000 > /dev/null
 
-## Building the input for [ k-nucleotide](Programming_language_shootout:_k-nucleotide "wikilink")
+## Building the input for [ k-nucleotide](Programming_language_shootout:_k-nucleotide.md)
 
     gsi fasta 1000000 > knucleotide-input1000000.txt
 
 The file knucleotide-input1000000.txt is used by [
-k-nucleotide](Programming_language_shootout:_k-nucleotide "wikilink").
+k-nucleotide](Programming_language_shootout:_k-nucleotide.md).

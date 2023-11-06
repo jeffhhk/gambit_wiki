@@ -1,6 +1,6 @@
 List of papers, books, articles, online discussions or other information
 that may be relevant for our work on the [Module
-System](Module_System "wikilink"). (This doesn't mean those definitely
+System](Module_System.md). (This doesn't mean those definitely
 will have an impact on our work; it's not a "references" list in the
 sense as used by papers written after finishing some work.)
 

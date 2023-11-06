@@ -14,8 +14,8 @@ gives another example (although a special-purpose one) and describes
 using Lalr with Gambit.
 
 See [Creating tags from Gambit library C
-files](Creating_tags_from_Gambit_library_C_files "wikilink") for why
-this example was written, and [User:dpeschel](User:dpeschel "wikilink").
+files](Creating_tags_from_Gambit_library_C_files.md) for why
+this example was written, and [User:dpeschel](User:dpeschel.md).
 
 I ran the example using these steps. I used Mac OS 10.3.7, Lalr 2.1.0,
 and Gambit 4.2.4. Lalr 2.3.0 is a [Snow](http://snow.iro.umontreal.ca/)

@@ -13,4 +13,4 @@ It is split apart into a few sections:
 I'll post it to the wiki, until I find a better home for it (git repos
 somewhere, possibly github)
 
-[media:sakuryaku.zip](media:sakuryaku.zip "wikilink")
+[media:sakuryaku.zip](media:sakuryaku.zip.md)

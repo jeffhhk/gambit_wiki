@@ -29,7 +29,7 @@ the link to upload your file. If you upload a new revision don't forget
 to change the revision number, and keep the link to the old revisions.
 
 A list of the packages and other files with statistics is available
-here: [Special:Imagelist](Special:Imagelist "wikilink")
+here: [Special:Imagelist](Special:Imagelist.md)
 
 In case you find that a link to an external repository linked to from
 this page doesn't work anymore, please try to retrieve the latest
@@ -49,13 +49,13 @@ choice.
       -   
         Author: Guillaume Germain
         Package:
-        [Srfi-pack-0.1.tar.gz](media:Srfi-pack-0.1.tar.gz "wikilink")
+        [Srfi-pack-0.1.tar.gz](media:Srfi-pack-0.1.tar.gz.md)
         README:
-        [Srfi-pack-0.1-README.txt](media:Srfi-pack-0.1-README.txt "wikilink")
+        [Srfi-pack-0.1-README.txt](media:Srfi-pack-0.1-README.txt.md)
 2.  **SRFI-1**: SRFI-1 ported to Gambit
       -   
         Author: Olin Shivers; ported by Bradley Lucier
-        Package [Srfi1.scm](media:Srfi1.scm "wikilink")
+        Package [Srfi1.scm](media:Srfi1.scm.md)
         Note: I did not extend map to allow list arguments of different
         lengths
 
@@ -65,13 +65,13 @@ choice.
     LLVM
       -   
         Authors: Arnaud Bergeron and Mathieu Larose
-        Package: [Gambit-LLVM.tgz](media:Gambit-LLVM.tgz "wikilink")
+        Package: [Gambit-LLVM.tgz](media:Gambit-LLVM.tgz.md)
 2.  **Jss**: JavaScriptScheme: a multithreaded Scheme to JavaScript
     compiler
       -   
         Author: Marc Feeley and Catherine Gaudron
-        Package: [Jss-r2.tgz](media:Jss-r2.tgz "wikilink") (old:
-        [Jss-r1.tgz](media:Jss-r1.tgz "wikilink"))
+        Package: [Jss-r2.tgz](media:Jss-r2.tgz.md) (old:
+        [Jss-r1.tgz](media:Jss-r1.tgz.md))
 3.  **R6RS on Gambit**:Allows R6RS programs to be run on Gambit.
       -   
         Maintainer: Arthur Smyles
@@ -85,17 +85,17 @@ choice.
     \#\!optional \#\!key and \#\!rest arguments.
       -   
         Author: Marco Benelli
-        Package: [Alexpander-r1.tgz](media:Alexpander-r1.tgz "wikilink")
+        Package: [Alexpander-r1.tgz](media:Alexpander-r1.tgz.md)
 
 ### Module systems
 
 1.  **Black Hole**: Module system, stable. Package handling features are
-    in beta phase. Primary page at [Black Hole](Black_Hole "wikilink").
+    in beta phase. Primary page at [Black Hole](Black_Hole.md).
       -   
         Package: (git repo) <https://github.com/pereckerdal/blackhole>
         Mirror for convenience, non-syntactictower Black Hole with
         bundled libs:
-        [2012-11-28-bh-non-syntactictower+bundled-libs.tar.gz](media:2012-11-28-bh-non-syntactictower+bundled-libs.tar.gz "wikilink")
+        [2012-11-28-bh-non-syntactictower+bundled-libs.tar.gz](media:2012-11-28-bh-non-syntactictower+bundled-libs.tar.gz.md)
 
 ### Object Systems
 
@@ -103,12 +103,12 @@ choice.
     but different
       -   
         Author: Ken Dickey
-        Package: [oops34.tgz](media:oops34.tgz "wikilink")
+        Package: [oops34.tgz](media:oops34.tgz.md)
 2.  **TinyTalk**: Self-like object system with selector \[Smalltalk
     like\] dispatch.
       -   
         Author: Ken Dickey
-        Package: [gambitTT.tgz](media:gambitTT.tgz "wikilink")
+        Package: [gambitTT.tgz](media:gambitTT.tgz.md)
 3.  **class.scm**: A simple CLOS-like object system written with a
     balance of performance, usability and runtime heap consumption.
     Comes bundled with a test suite which shows exemple of how the
@@ -166,14 +166,14 @@ choice.
       -   
         Author: Kirill Lisovsky (updated by Dominique Boucher)
         Package: (web page)
-        [ssax-sxml-gambit-20080402.tgz](media:ssax-sxml-gambit-20080402.tgz "wikilink")
+        [ssax-sxml-gambit-20080402.tgz](media:ssax-sxml-gambit-20080402.tgz.md)
 2.  **Mparser**: A combinatorial parser (added expression parser)
     (parser language rewrite)
       -   
         Author: Francesco Bracchi
-        Package: [Mparser-r3.tgz](media:Mparser-r3.tgz "wikilink") (old:
-        [Mparser-r1.tgz](media:Mparser-r1.tgz "wikilink"),
-        [Mparser-r2.tgz](media:Mparser-r2.tgz "wikilink"))
+        Package: [Mparser-r3.tgz](media:Mparser-r3.tgz.md) (old:
+        [Mparser-r1.tgz](media:Mparser-r1.tgz.md),
+        [Mparser-r2.tgz](media:Mparser-r2.tgz.md))
 
 ### Physics
 
@@ -182,7 +182,7 @@ choice.
       -   
         Author: Marijn Schouten
         Package:
-        [media:ising-20090315.scm](media:ising-20090315.scm "wikilink")
+        [media:ising-20090315.scm](media:ising-20090315.scm.md)
 
 ### Compression
 
@@ -196,9 +196,9 @@ choice.
 1.  **Pi**: Compute pi to arbitrary precision.
       -   
         Author: Marc Feeley
-        Package: [Pi-r3.tgz](media:Pi-r3.tgz "wikilink") (old:
-        [Pi-r2.tgz](media:Pi-r2.tgz "wikilink")) (old:
-        [Pi-r1.tgz](media:Pi-r1.tgz "wikilink"))
+        Package: [Pi-r3.tgz](media:Pi-r3.tgz.md) (old:
+        [Pi-r2.tgz](media:Pi-r2.tgz.md)) (old:
+        [Pi-r1.tgz](media:Pi-r1.tgz.md))
 2.  **BLAS**: Thin wrapper for level 1, 2 and 3 BLAS linear algebra
     routines for the Gambit Scheme system.
       -   
@@ -259,15 +259,15 @@ choice.
     pls contact the ml.
       -   
         Author: Andrew Whaley
-        Package: [Gambit-mysql.zip](media:Gambit-mysql.zip "wikilink")
+        Package: [Gambit-mysql.zip](media:Gambit-mysql.zip.md)
 3.  **SQLite3**: a minimalistic interface to SQLite3.
       -   
         Author: Marco Benelli
-        Package: [SQLite3-r1.tgz](media:SQLite3-r1.tgz "wikilink")
+        Package: [SQLite3-r1.tgz](media:SQLite3-r1.tgz.md)
 4.  **Postgresql**: A socket level client for Postgresql
       -   
         Author: Francesco Bracchi
-        Package: [Postgresql-r1.tgz](media:Postgresql-r1.tgz "wikilink")
+        Package: [Postgresql-r1.tgz](media:Postgresql-r1.tgz.md)
 
 ### Graphics
 
@@ -280,46 +280,46 @@ choice.
 2.  **Schemeray**: A simple (and as of yet, unoptimized) raytracer
       -   
         Author: James Long
-        Package: [schemeray-0.2.tgz](media:schemeray-0.2.tgz "wikilink")
+        Package: [schemeray-0.2.tgz](media:schemeray-0.2.tgz.md)
 3.  **Opengl FFI**: A simple opengl, glu and glut ffi which supports
     opengl up to version 1.1.
       -   
         Author: David St-Hilaire
-        Package: [Opengl-ffi-r1.tgz](media:Opengl-ffi-r1.tgz "wikilink")
+        Package: [Opengl-ffi-r1.tgz](media:Opengl-ffi-r1.tgz.md)
 4.  **Perlin Noise**: A simple opengl demonstration of a sub-optimal 2d
     Perlin noise implementation.
       -   
         Author: David St-Hilaire
         Package:
-        [Perlin-noise-2d-r1.tgz](media:Perlin-noise-2d-r1.tgz "wikilink")
+        [Perlin-noise-2d-r1.tgz](media:Perlin-noise-2d-r1.tgz.md)
 5.  **Cairo**: Bindings for cairo graphics.
       -   
         Author: Marco Benelli
-        Package: [Cairo-r3.tgz](media:Cairo-r3.tgz "wikilink") (old:
-        [Cairo-r2.tgz](media:Cairo-r2.tgz "wikilink"))
+        Package: [Cairo-r3.tgz](media:Cairo-r3.tgz.md) (old:
+        [Cairo-r2.tgz](media:Cairo-r2.tgz.md))
 6.  **GLEW**: A wrapper for GLEW which provides all OpenGL functionality
     through version 2.1 and manages access to vendor extensions
       -   
         Author: Fred LeMaster
-        Package: [glew.tar.gz](media:Glew.tar.gz "wikilink")
+        Package: [glew.tar.gz](media:Glew.tar.gz.md)
 
 ### Audio
 
 1.  **mpg123**: A wrapper for the libmpg123 mpeg decoding library
       -   
         Author: Fred LeMaster
-        Package: [mpg.tar.gz](media:mpg.tar.gz "wikilink")
+        Package: [mpg.tar.gz](media:mpg.tar.gz.md)
 2.  **OpenAL**: A wrapper for the OpenAL audio output library
       -   
         Author: Fred LeMaster
-        Package: [openAL.tar.gz](media:openAL.tar.gz "wikilink")
+        Package: [openAL.tar.gz](media:openAL.tar.gz.md)
 
 ### Networking
 
 1.  **gamsock**: Full socket library compatible with Scsh's socket API.
       -   
         Author: Jeffrey T. Read
-        Package: [gamsock-r1.tar.gz](media:gamsock-r1.tar.gz "wikilink")
+        Package: [gamsock-r1.tar.gz](media:gamsock-r1.tar.gz.md)
         Git: <https://github.com/bitwize/gamsock>
 
 ### Utilities
@@ -328,7 +328,7 @@ choice.
     The mergesort algorithm is used.
       -   
         Author: Marc Feeley
-        Package: [Sort-r1.tgz](media:Sort-r1.tgz "wikilink")
+        Package: [Sort-r1.tgz](media:Sort-r1.tgz.md)
 2.  **Bunny Test**: A simple unit testing framework.
       -   
         Author: Jonathan Arkell
@@ -338,7 +338,7 @@ choice.
     options
       -   
         Author: Marco Benelli
-        Package: [GetOpts-r1.tgz](media:GetOpts-r1.tgz "wikilink")
+        Package: [GetOpts-r1.tgz](media:GetOpts-r1.tgz.md)
 4.  **Etags**: Script that generates Emacs TAGS files from Scheme files,
     and recognizes nested definitions.
       -   
@@ -355,18 +355,18 @@ choice.
         Web:
         <https://mercure.iro.umontreal.ca/pipermail/gambit-list/2010-June/004500.html>
         Package:
-        [Repltest-20100604.tgz‎](media:Repltest-20100604.tgz‎ "wikilink")
+        [Repltest-20100604.tgz‎](media:Repltest-20100604.tgz‎.md)
 7.  **objc-utility-macros**: Utility macros to help wrap Objective-C
     methods.
       -   
         Author: Jeffrey T. Read
         Package:
-        [objc-utility-macros.scm](media:objc-utility-macros.scm‎ "wikilink")
+        [objc-utility-macros.scm](media:objc-utility-macros.scm‎.md)
 8.  **Sort**: Richard O'Keefe's sorting procedures for lists and
     vectors. Four times as fast as other sort.
       -   
         Author: Richard O'Keefe
-        Package: [Sort-okeefe.tgz](media:Sort-okeefe.tgz "wikilink")
+        Package: [Sort-okeefe.tgz](media:Sort-okeefe.tgz.md)
 9.  **Digest**: Computation of message digests (CRC32, MD5, SHA-1, ...).
     Snow package.
       -   
@@ -386,7 +386,7 @@ choice.
     Unicode](http://srfi.schemers.org/srfi-75/srfi-75.html).
       -   
         Author: Mikael More, Florian Loitsch
-        Package: [Unicode.tar.gz](media:Unicode.tar.gz "wikilink") repo:
+        Package: [Unicode.tar.gz](media:Unicode.tar.gz.md) repo:
         <https://github.com/m-i-k-a-e-l/gambit-unicode>
 12. **Glass Table**: Interactive Development Environment. A REPL that
     lets you save your work.
@@ -394,7 +394,7 @@ choice.
         Author: Jeffrey T. Read
         Repo: <https://github.com/bitwize/glasstable>
         Package:
-        [glasstable-0.1.tar.gz](media:glasstable-0.1.tar.gz "wikilink")
+        [glasstable-0.1.tar.gz](media:glasstable-0.1.tar.gz.md)
 
 ### Full Applications
 
@@ -403,19 +403,19 @@ choice.
       -   
         Author: David St-Hilaire
         Package:
-        [Space-invaders-src-v1.0.tgz](media:Space-invaders-src-v1.0.tgz "wikilink")
+        [Space-invaders-src-v1.0.tgz](media:Space-invaders-src-v1.0.tgz.md)
 2.  **Web Server**: a web server with sessions cookies and server pages.
       -   
         Author: Francesco Bracchi
-        Package: [WebServer-r2.tgz](media:WebServer-r2.tgz "wikilink")
-        (old: [WebServer-r1.tgz](media:WebServer-r1.tgz "wikilink"))
+        Package: [WebServer-r2.tgz](media:WebServer-r2.tgz.md)
+        (old: [WebServer-r1.tgz](media:WebServer-r1.tgz.md))
         Git:
         <http://git.berlios.de/cgi-bin/gitweb.cgi?p=futhark;a=summary>
 3.  **GUI-Toy**: Simple Direct Media Layer prototype code with examples
     in the raw and using TinyTalk and Oops object systems.
       -   
         Author: Ken Dickey
-        Package: [GUI-Toy.tgz](media:GUI-Toy.tgz "wikilink")
+        Package: [GUI-Toy.tgz](media:GUI-Toy.tgz.md)
 4.  **Intelligent WTF**: Intelligent acronym decoder based on *wtf* from
     BSD Games
       -   
@@ -433,7 +433,7 @@ choice.
 These packages are in their present form created to run on Gambit using
 the Black Hole module system. They can generally easily be made to run
 on Gambit directly as well. For more info see [Black
-Hole](Black_Hole "wikilink").
+Hole](Black_Hole.md).
 
 ### SRFI
 
@@ -448,7 +448,7 @@ Hole](Black_Hole "wikilink").
 
 For convenience, mirror readily set up for non-syntactictower Black
 Hole:
-[2012-11-28-sack-current-for-BH-non-syntactictower.tar.gz](media:2012-11-28-sack-current-for-BH-non-syntactictower.tar.gz "wikilink")
+[2012-11-28-sack-current-for-BH-non-syntactictower.tar.gz](media:2012-11-28-sack-current-for-BH-non-syntactictower.tar.gz.md)
 
 There's a production-quality HTTPS server extension to Sack, see this
 email:
@@ -476,6 +476,6 @@ mailing list.
       -   
         Author: Paul R. Wilson
         Package:
-        [An\_Introduction\_to\_Scheme\_and\_its\_Implementation.tar.gz](media:An_Introduction_to_Scheme_and_its_Implementation.tar.gz "wikilink")
+        [An\_Introduction\_to\_Scheme\_and\_its\_Implementation.tar.gz](media:An_Introduction_to_Scheme_and_its_Implementation.tar.gz.md)
 
-[Category: Code](Category:_Code "wikilink")
+[Category: Code](Category:_Code.md)

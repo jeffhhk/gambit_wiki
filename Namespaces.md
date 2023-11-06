@@ -59,7 +59,7 @@ already used for many other purposes by the Scheme standards.) If Gambit
 puts a name in the "" namespace, it often puts the same name in the
 "\#\#" namespace. But when the names refer to functions, the two
 functions do not necessarily behave the same way; see
-[Usage](#Usage "wikilink") for the details.
+[Usage](#Usage.md) for the details.
 
 #### Declaring an identifier as belonging to a particular namespace
 
@@ -106,7 +106,7 @@ declaration is entered or `eval`ed.
 
 Note that the identifier `namespace` is part of the empty namespace.
 Because of the exception to the qualifier syntax described
-[above](#Full_qualification "wikilink"), if you change the default
+[above](#Full_qualification.md), if you change the default
 namespace, then you have to use `##namespace` instead. `##namespace` and
 `namespace` behave the same.
 

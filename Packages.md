@@ -9,10 +9,10 @@ want to develop new packages, Snow has its own
 
 ## Black Hole module system
 
-[Black Hole](Black_Hole "wikilink") is a module system for incremental
+[Black Hole](Black_Hole.md) is a module system for incremental
 development and easily sharing code. It is bundled with a set of general
 purpose libraries, including several popular [
-SRFIs](SRFI:s "wikilink").
+SRFIs](SRFI:s.md).
 
 ## Spheres
 
@@ -24,4 +24,4 @@ visit the [project page](http://schemespheres.org).
 ## Dumping grounds
 
 There is an informal listing of Gambit libraries and code samples on the
-[Dumping Grounds](Dumping_Grounds "wikilink").
+[Dumping Grounds](Dumping_Grounds.md).
