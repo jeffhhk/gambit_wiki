@@ -20,21 +20,21 @@ There are also some libraries for Black Hole at
     git clone git://github.com/pereckerdal/blackhole-libs.git
 
 or non-automatically, probably very old copy
-[here](media:Black Hole.zip.md).
+[here](media:Black%20Hole.zip.md).
 
 Make sure you put the blackhole-libs into a directory called "std" in
 \~\~/lib/modules
 
 ## Documentation
 
-Core documentation (2009): [PDF](media:Black Hole Core.pdf.md),
-[OpenOffice](media:Black Hole Core.odf.md) and [Microsoft
-Word](media:Black Hole Core.doc.md)
+Core documentation (2009): [PDF](media:Black%20Hole%20Core.pdf.md),
+[OpenOffice](media:Black%20Hole%20Core.odf.md) and [Microsoft
+Word](media:Black%20Hole%20Core.doc.md)
 
 Bundled libraries documentation (2009):
-[PDF](media:Black Hole Bundled libraries.pdf.md),
-[OpenOffice](media:Black Hole Bundled libraries.odf.md) and
-[Microsoft Word](media:Black Hole Bundled libraries.doc.md)
+[PDF](media:Black%20Hole%20Bundled%20libraries.pdf.md),
+[OpenOffice](media:Black%20Hole%20Bundled%20libraries.odf.md) and
+[Microsoft Word](media:Black%20Hole%20Bundled%20libraries.doc.md)
 
 (The tutorial for the alpha release is no longer available. The old site
 <http://mwaza.dyndns.org/apps/files/bh-tutorial.html> is now offline.)

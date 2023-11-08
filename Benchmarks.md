@@ -1,7 +1,7 @@
 ## Gambit benchmarks
 
 Marc Feeley has put together a collection of benchmarks, called the
-[Gambit benchmarks](Gambit benchmarks.md). The performance of
+[Gambit benchmarks](Gambit%20benchmarks.md). The performance of
 Gambit is compared to a number of other Scheme implementations on that
 page.
 
@@ -12,7 +12,7 @@ Game](http://shootout.alioth.debian.org/) compares various computer
 languages by benchmarking similar algorithms to a number of small
 problems in a number of language implementations. Here are a number of
 Gambit implementations of the programs in the [programming language
-shootout](programming language shootout.md). Please feel free to
+shootout](programming%20language%20shootout.md). Please feel free to
 propose improvements before they're submitted.
 
 ## Some simple operations on large bignums

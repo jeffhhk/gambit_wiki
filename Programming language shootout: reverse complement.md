@@ -1,7 +1,7 @@
 This is a Gambit implementation of the
 [reverse-complement](http://shootout.alioth.debian.org/gp4sandbox/benchmark.php?test=revcomp&lang=all)
 benchmark of the [Computer Language Benchmarks
-Game](Programming language shootout.md).
+Game](Programming%20language%20shootout.md).
 
 ## The program
 

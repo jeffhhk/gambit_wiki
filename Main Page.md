@@ -102,7 +102,7 @@ compiler generates portable C code. The main features of Gambit-C are:
     tracking is done with the [issue tracker on
     github](https://github.com/gambit/gambit/issues). Gambit-C has been
     used to develop large-scale [ real-world software and
-    services](Real-world software and services.md) in academic
+    services](Real-world%20software%20and%20services.md) in academic
     and commercial settings.
 
 An overview of the Gambit system was presented by Marc Feeley at the
@@ -136,7 +136,7 @@ github](https://github.com/gambit/gambit).
 
 ## Contributing
 
-Learn [how to contribute](how to contribute.md) to Gambit's
+Learn [how to contribute](how%20to%20contribute.md) to Gambit's
 development.
 
 ### Reporting bugs

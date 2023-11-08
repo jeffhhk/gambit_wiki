@@ -3,8 +3,8 @@ Gambit to people with experiences of general programming languages.
 
 Download:
 
-  - [PDF format](media:A Tour of Scheme in Gambit.pdf.md)
+  - [PDF format](media:A%20Tour%20of%20Scheme%20in%20Gambit.pdf.md)
   - [Open Office
-    format](media:A Tour of Scheme in Gambit.odf.md)
+    format](media:A%20Tour%20of%20Scheme%20in%20Gambit.odf.md)
   - [Microsoft Word
-    format](media:A Tour of Scheme in Gambit.doc.md)
+    format](media:A%20Tour%20of%20Scheme%20in%20Gambit.doc.md)

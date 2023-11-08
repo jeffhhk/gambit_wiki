@@ -40,4 +40,4 @@ Here are the most useful "make" targets:
 </tbody>
 </table>
 
-[Category: Installing](Category: Installing.md)
+[Category: Installing](Category:%20Installing.md)

@@ -89,12 +89,12 @@ work.
 ### Finding the maximum depth of parentheses used
 
 The maximum depth after any \_\_\_P invocation in any of the library
-files is four. See [this page](Lalr example.md) for the script
+files is four. See [this page](Lalr%20example.md) for the script
 used to find that.
 
 ### Generating a regexp
 
 ### Using the regexp
 
-[Category: development](Category: development.md) [Category:
-internals](Category: internals.md)
+[Category: development](Category:%20development.md) [Category:
+internals](Category:%20internals.md)

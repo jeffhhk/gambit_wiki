@@ -67,5 +67,5 @@ gives
   - ???
   - Profit\!
 
-[Category: Installing](Category: Installing.md) [Category:
-Internals](Category: Internals.md)
+[Category: Installing](Category:%20Installing.md) [Category:
+Internals](Category:%20Internals.md)

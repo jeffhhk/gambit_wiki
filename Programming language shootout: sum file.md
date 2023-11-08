@@ -1,7 +1,7 @@
 This is a Gambit implementation of the
 [sum-file](http://shootout.alioth.debian.org/gp4sandbox/benchmark.php?test=sumcol&lang=all)
 benchmark of the [Computer Language Benchmarks
-Game](Programming language shootout.md).
+Game](Programming%20language%20shootout.md).
 
 I have no idea what the real data is supposed to be.
 

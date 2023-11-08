@@ -7,7 +7,7 @@ section contains the projects that are officially proposed by the
 organization. You can make corrections to the text but please don't make
 substantial changes.
 
-The Gambit [ wish list](Wish list.md) may also be a good source
+The Gambit [ wish list](Wish%20list.md) may also be a good source
 of inspiration for projects. However the wish list contains projects
 which require a very good knowledge of the Gambit system's structure and
 internal operation, so they are not advisable for students with little

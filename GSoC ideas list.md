@@ -7,7 +7,7 @@ section contains the projects that are officially proposed by the
 organization. You can make corrections to the text but please don't make
 substantial changes.
 
-The Gambit [ wish list](Wish list.md) may also be a good source
+The Gambit [ wish list](Wish%20list.md) may also be a good source
 of inspiration for projects. However the wish list contains projects
 which require a very good knowledge of the Gambit system's structure and
 internal operation, so they are not advisable for students with little
@@ -124,7 +124,7 @@ Gambit offers a simple namespace handling system for code
 compartimentalization, and the Snow\! code compartimentalization and
 distribution system improves on this. That shouldn't be the end of
 modular programming in the Gambit world, though, and a project exploring
-that space is underway here: [Module\_System](Module System.md).
+that space is underway here: [Module\_System](Module%20System.md).
 The project could use one student as complemention of the team.
 Depending on the skills of the student, he/she could tackle different
 parts (help compiling all requirements onto a minimal set of features

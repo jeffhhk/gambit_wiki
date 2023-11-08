@@ -4,7 +4,7 @@ Here are implementations for some programs from the [Computer Language
 Benchmarks Game](http://shootout.alioth.debian.org/) for Gambit.
 
 Running
-[k-nucleotide.scm](Programming language shootout: k-nucleotide.md)
+[k-nucleotide.scm](Programming%20language%20shootout:%20k-nucleotide.md)
 with the largest data set creates a string of length 5,000,000. With
 four-byte characters (Gambit's default) this is 20,000,000 byte object,
 and the largest object that can be created in a 32-bit system is a bit
@@ -21,22 +21,22 @@ Language Benchmarks Game machine is
 This installs Gambit in `/usr/local/Gambit-C`, and the binaries `gsi`
 and `gsc` are in `/usr/local/Gambit-C/current/bin`.
 
-  - [binary-trees.scm](Programming language shootout: binary trees.md)
-  - [chameneos-redux.scm](Programming language shootout: chameneos redux.md)
-  - [fannkuch.scm](Programming language shootout: fannkuch.md)
-  - [fasta.scm](Programming language shootout: fasta.md)
-  - [k-nucleotide.scm](Programming language shootout: k-nucleotide.md)
-  - [mandelbrot.scm](Programming language shootout: mandelbrot.md)
-  - [meteor-contest.scm](Programming language shootout: meteor contest.md)
-  - [n-body.scm](Programming language shootout: n-body.md)
-  - [nsieve.scm](Programming language shootout: nsieve.md)
-  - [nsieve-bits.scm](Programming language shootout: nsieve-bits.md)
-  - [partial-sums.scm](Programming language shootout: partial sums.md)
-  - [pidigits.scm](Programming language shootout: pidigits.md)
-  - [recursive.scm](Programming language shootout: recursive.md)
-  - [regex-dna.scm](Programming language shootout: regex dna.md)
-  - [reverse-complement.scm](Programming language shootout: reverse complement.md)
-  - [spectral-norm.scm](Programming language shootout: spectral norm.md)
-  - [startup.scm](Programming language shootout: startup.md)
-  - [sum-file.scm](Programming language shootout: sum file.md)
-  - [thread-ring.scm](Programming language shootout: thread ring.md)
+  - [binary-trees.scm](Programming%20language%20shootout:%20binary%20trees.md)
+  - [chameneos-redux.scm](Programming%20language%20shootout:%20chameneos%20redux.md)
+  - [fannkuch.scm](Programming%20language%20shootout:%20fannkuch.md)
+  - [fasta.scm](Programming%20language%20shootout:%20fasta.md)
+  - [k-nucleotide.scm](Programming%20language%20shootout:%20k-nucleotide.md)
+  - [mandelbrot.scm](Programming%20language%20shootout:%20mandelbrot.md)
+  - [meteor-contest.scm](Programming%20language%20shootout:%20meteor%20contest.md)
+  - [n-body.scm](Programming%20language%20shootout:%20n-body.md)
+  - [nsieve.scm](Programming%20language%20shootout:%20nsieve.md)
+  - [nsieve-bits.scm](Programming%20language%20shootout:%20nsieve-bits.md)
+  - [partial-sums.scm](Programming%20language%20shootout:%20partial%20sums.md)
+  - [pidigits.scm](Programming%20language%20shootout:%20pidigits.md)
+  - [recursive.scm](Programming%20language%20shootout:%20recursive.md)
+  - [regex-dna.scm](Programming%20language%20shootout:%20regex%20dna.md)
+  - [reverse-complement.scm](Programming%20language%20shootout:%20reverse%20complement.md)
+  - [spectral-norm.scm](Programming%20language%20shootout:%20spectral%20norm.md)
+  - [startup.scm](Programming%20language%20shootout:%20startup.md)
+  - [sum-file.scm](Programming%20language%20shootout:%20sum%20file.md)
+  - [thread-ring.scm](Programming%20language%20shootout:%20thread%20ring.md)
