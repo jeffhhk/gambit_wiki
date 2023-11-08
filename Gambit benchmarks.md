@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_
+
 
 The following tables contain the execution time of the Gambit benchmarks
 on various implementations of Scheme in different situations. For a

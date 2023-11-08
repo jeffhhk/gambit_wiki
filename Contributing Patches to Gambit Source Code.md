@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ The Gambit [ source code
+ The Gambit [ source code
 repository](Source%20code%20repository.md) is managed with the
 [git](http://git.or.cz/) distributed version control system.
 

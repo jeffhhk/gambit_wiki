@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ The development of Gambit was
+ The development of Gambit was
 started in 1989 by [Marc Feeley](http://www.iro.umontreal.ca/~feeley/).
 In order to maintain tight control over the quality of the
 implementation, few other developers have been permitted to contribute

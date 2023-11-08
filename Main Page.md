@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ The Gambit Scheme system is a
+ The Gambit Scheme system is a
 complete, portable, efficient and reliable implementation of the [
 Scheme programming language](Scheme.md).
 
