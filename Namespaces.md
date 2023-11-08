@@ -106,7 +106,7 @@ declaration is entered or `eval`ed.
 
 Note that the identifier `namespace` is part of the empty namespace.
 Because of the exception to the qualifier syntax described
-[above](#Full_qualification.md), if you change the default
+[above](#Full qualification.md), if you change the default
 namespace, then you have to use `##namespace` instead. `##namespace` and
 `namespace` behave the same.
 

@@ -15,9 +15,9 @@ Some prebuilt distributions are [ available](Distributions.md).
 
 To build Gambit from source, one must first run the configure script,
 which has a number of important [
-options](Configure_script_options.md).
+options](Configure script options.md).
 
-There are various [ make targets](Make_targets.md) of which you
+There are various [ make targets](Make targets.md) of which you
 should be aware.
 
 ## Packages, modules, libraries and driving systems
@@ -31,7 +31,7 @@ conventions called Scheme Requests for Implementation, publicly
 collected on [srfi.schemers.org](http://srfi.schemers.org/).
 
 Gambit [ natively implements](SRFI:s.md) a number of SRFIs.
-[Black Hole](Black_Hole.md) includes several popular SRFIs not
+[Black Hole](Black Hole.md) includes several popular SRFIs not
 natively supported, while still others may be downloaded from
 [Snow](http://snow.iro.umontreal.ca/?listcat=srfi).
 
@@ -67,24 +67,24 @@ point to the Termite web site from here.
 
 ## Tutorials
 
-[A Tour of Scheme in Gambit](A_Tour_of_Scheme_in_Gambit.md)
+[A Tour of Scheme in Gambit](A Tour of Scheme in Gambit.md)
 gives a general introduction to Scheme and Gambit to people with
 experiences of general programming languages. Available in
-[PDF](media:A_Tour_of_Scheme_in_Gambit.pdf.md), [Open
-Office](media:A_Tour_of_Scheme_in_Gambit.odf.md) and [Microsoft
-Word](media:A_Tour_of_Scheme_in_Gambit.doc.md) formats.
+[PDF](media:A Tour of Scheme in Gambit.pdf.md), [Open
+Office](media:A Tour of Scheme in Gambit.odf.md) and [Microsoft
+Word](media:A Tour of Scheme in Gambit.doc.md) formats.
 
 ## Internals Documentation
 
-[Design guide](Design_guide.md)
+[Design guide](Design guide.md)
 
-People who want to [ contribute](How_to_Contribute.md) to Gambit
+People who want to [ contribute](How to Contribute.md) to Gambit
 development will need to learn something about how the Gambit-C runtime
 and compiler are organized. While we intend that source code
 documentation be included in the source itself (currently there is very
 little documentation), we intend that descriptions of program design or
 algorithms used in the runtime and compiler could be included on the
-[Internal Documentation](Internal_Documentation.md) page.
+[Internal Documentation](Internal Documentation.md) page.
 
 ## Working with External Libraries
 
@@ -92,7 +92,7 @@ With Gambit's C FFI (Foreign Function Interface), one can easily use
 standard C and C++ libraries with your code; this wiki has some examples
 of and practices on using Gambit with external libraries. See [Using
 Gambit with External
-Libraries](Using_Gambit_with_External_Libraries.md).
+Libraries](Using Gambit with External Libraries.md).
 
 ## Debugging
 
@@ -105,11 +105,11 @@ archive](http://mailman.iro.umontreal.ca/pipermail/gambit-list) covers
 many topics at depth. You can make Google search queries limited to the
 mailing list by clicking "advanced settings" on www.google.com.
 
-[Dumping Grounds](Dumping_Grounds.md)
+[Dumping Grounds](Dumping Grounds.md)
 
 [Compiling Gambit software for different target
-environments](Compiling_Gambit_software_for_different_target_environments.md)
+environments](Compiling Gambit software for different target environments.md)
 
-[Wish list](Wish_list.md)
+[Wish list](Wish list.md)
 
-[External links](External_links.md)
+[External links](External links.md)

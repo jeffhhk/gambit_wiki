@@ -45,5 +45,5 @@ Also, when you use the repl it is still the gambit repl. You can't use
 import or library. I sometimes lurk on \#gambit (I'm atsmyles) irc
 channel so if you see me we can work through it.
 
-[Category: Code](Category:_Code.md) [Category:
-Languages](Category:_Languages.md)
+[Category: Code](Category: Code.md) [Category:
+Languages](Category: Languages.md)

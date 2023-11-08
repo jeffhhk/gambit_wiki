@@ -1,5 +1,5 @@
 People who want to [
-contribute](Contributing_Patches_to_Gambit_Source_Code.md) to
+contribute](Contributing Patches to Gambit Source Code.md) to
 Gambit development will need to learn something about how the Gambit-C
 runtime and compiler are organized. While we intend that source code
 documentation be included in the source itself (currently there is very
@@ -16,7 +16,7 @@ See [Namespaces](Namespaces.md).
 
 General notes on internal object storage and memory consumption is on
 the [Debugging](Debugging.md) page. Also see [Notes on Memory
-Management](Notes_on_Memory_Management.md).
+Management](Notes on Memory Management.md).
 
 ### Thread System
 
@@ -239,4 +239,4 @@ Linking is started with **targ-linker**. When incremental link is
 demanded, INCREMENTAL\_LINKFILE will be defined in generated C file.
 gambit.h will handle the rest.
 
-[Category: Internals](Category:_Internals.md)
+[Category: Internals](Category: Internals.md)

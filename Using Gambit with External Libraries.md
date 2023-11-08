@@ -278,4 +278,4 @@ in gsc:
 The most important function here is **make-will**, it enables to call a
 function when some object is not more strongly referenced.
 
-[Category: FFI](Category:_FFI.md)
+[Category: FFI](Category: FFI.md)

@@ -11,7 +11,7 @@ Contributions are sought in at least three areas:
 
   - **Gambit's source code**
       - Locate and fix bugs
-      - [ Suggest new features ](Wish_list.md)
+      - [ Suggest new features ](Wish list.md)
       - Implement new features
       - [ Port the system to new platforms ](Installer.md)
       - Improve the performance of the system
@@ -40,10 +40,10 @@ the status of the issue. Suggestions for new features can also be
 submitted to the github issue tracking system.
 
 The latest sources are available in the [ source code
-repository](Source_code_repository.md). It can be accessed using
+repository](Source code repository.md). It can be accessed using
 the [git](http://git.or.cz/) distributed version control system. The
 details are explained in the [ source code repository
-instructions](Contributing_Patches_to_Gambit_Source_Code.md).
+instructions](Contributing Patches to Gambit Source Code.md).
 With git you get a local copy of the source code repository which you
 can use to develop a *patch* that fixes a bug or implements a new
 feature. If you feel confident that the patch is correct and useful to
@@ -80,4 +80,4 @@ list](https://mailman.iro.umontreal.ca/cgi-bin/mailman/listinfo/gambit-list).
 The procedure for contributing packages is still under development.
 Please stay tuned.
 
-[Category: Internals](Category:_Internals.md)
+[Category: Internals](Category: Internals.md)

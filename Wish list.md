@@ -246,7 +246,7 @@ problem of separate REPL and interpreter processes, however.
 
 A Gambit IDE might use TCP ports as described in the section above. It
 might use a SLIME backend, as described on [GSoC ideas
-list](GSoC_ideas_list.md). Perhaps with enough work, `gambit.el`
+list](GSoC ideas list.md). Perhaps with enough work, `gambit.el`
 and `_repl.scm` could be extended together to accomplish something
 similar to SLIME. In any case the reader also could use some redesign.
 It works only with input streams, not groups of streams like

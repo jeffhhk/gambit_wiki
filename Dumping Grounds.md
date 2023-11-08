@@ -90,7 +90,7 @@ choice.
 ### Module systems
 
 1.  **Black Hole**: Module system, stable. Package handling features are
-    in beta phase. Primary page at [Black Hole](Black_Hole.md).
+    in beta phase. Primary page at [Black Hole](Black Hole.md).
       -   
         Package: (git repo) <https://github.com/pereckerdal/blackhole>
         Mirror for convenience, non-syntactictower Black Hole with
@@ -433,7 +433,7 @@ choice.
 These packages are in their present form created to run on Gambit using
 the Black Hole module system. They can generally easily be made to run
 on Gambit directly as well. For more info see [Black
-Hole](Black_Hole.md).
+Hole](Black Hole.md).
 
 ### SRFI
 
@@ -476,6 +476,6 @@ mailing list.
       -   
         Author: Paul R. Wilson
         Package:
-        [An\_Introduction\_to\_Scheme\_and\_its\_Implementation.tar.gz](media:An_Introduction_to_Scheme_and_its_Implementation.tar.gz.md)
+        [An\_Introduction\_to\_Scheme\_and\_its\_Implementation.tar.gz](media:An Introduction to Scheme and its Implementation.tar.gz.md)
 
-[Category: Code](Category:_Code.md)
+[Category: Code](Category: Code.md)

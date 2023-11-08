@@ -1,6 +1,6 @@
 **NOTE: the information below is outdated (from around 2008). You may
 find more up-to-date information at page of the
-[Black\_Hole](Black_Hole.md) module system.**
+[Black\_Hole](Black Hole.md) module system.**
 
 **Older NOTE: Please note that there has been progress in module system
 development during 2008-2009, and there is a sharp module system
@@ -118,7 +118,7 @@ Rough points of the planned timeline:
 ## Virtual Library
 
 We are keeping a growing [list of
-literature](Module_System/Virtual_Library.md) which we think is
+literature](Module System/Virtual Library.md) which we think is
 relevant for our work. It contains items we've read or intend to read,
 so it will be growing; we will not put anything there which we don't
 think we will manage to read, so by looking at that list you can see
@@ -127,7 +127,7 @@ that you will notify us in this case.
 
 ## Log
 
-There is a [logfile](Module_System/Log.md) mentioning the events
+There is a [logfile](Module System/Log.md) mentioning the events
 in the project.
 
 ## License

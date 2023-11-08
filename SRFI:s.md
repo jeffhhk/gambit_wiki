@@ -112,4 +112,4 @@ Accumulators](https://srfi.schemers.org/srfi-158/srfi-158.html)
 219: [Define higher-order
 lambda](https://srfi.schemers.org/srfi-219/srfi-219.html)
 
-[Category: Code](Category:_Code.md)
+[Category: Code](Category: Code.md)

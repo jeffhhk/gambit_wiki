@@ -20,7 +20,7 @@ license declaration to the project page, discovered \#gambit IRC channel
 (together with JL), carrying out various discussions (with JL, Marc,
 Guillaume Cartier), checked pkg-config hint by G.Cartier, started
 reading paper by M.Flatt, created
-[Module\_System/Virtual\_Library](Module_System/Virtual_Library.md)
+[Module\_System/Virtual\_Library](Module System/Virtual Library.md)
 page, (talk with D. Peschel about [Namespaces](Namespaces.md)
 wiki page), observed \#gsoc channel during the time when GSoC program
 manager LH explained how selection has happened. Two Mails to the

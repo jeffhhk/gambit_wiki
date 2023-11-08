@@ -1,7 +1,7 @@
 This is a Gambit implementation of the
 [spectral-norm](http://shootout.alioth.debian.org/gp4sandbox/benchmark.php?test=spectralnorm&lang=all)
 benchmark of the [Computer Language Benchmarks
-Game](Programming_language_shootout.md).
+Game](Programming language shootout.md).
 
 ## The program
 

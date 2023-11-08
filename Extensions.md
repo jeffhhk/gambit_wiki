@@ -17,6 +17,6 @@ documentation.
 
 <!-- end list -->
 
-  - What about some [extra parameters](extra_parameters.md) such
+  - What about some [extra parameters](extra parameters.md) such
     as keys, optional parameters, references to whole parts of code,
     etc?
